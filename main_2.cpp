@@ -2,7 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include <string>
-#include "gatordel.h" // Make sure this includes the declaration of the GatorDel class and its methods
+#include "gatordel.h" 
 
 int main(int argc, char* argv[]) {
     if (argc != 2) {
